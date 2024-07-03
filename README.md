@@ -46,5 +46,5 @@ This project is a simple yet effective demonstration of PWM control on Arduino t
 
 output (simulation on tinkercad):
 
-
+![IMG_20240703_180353_477](https://github.com/manendra23-flame/CODETECH-TASK1/assets/174607434/ca17b8aa-d8e8-48ef-bc36-4c858b319e51)
 
