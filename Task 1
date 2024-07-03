@@ -1,0 +1,22 @@
+CODE:
+
+int LED1=3;
+int LED2=5;
+void setup() {
+pinMode(LED1,OUTPUT); //set led 1 as o/p
+pinMode(LED2,OUTPUT); //set led 2 as o/p
+}
+ void loop() {
+for(int i=0;i<=255;i=i+5)
+{
+analogWrite(LED1,i);
+analogWrite(LED2,255-i);
+delay(30);
+}
+for(int i=255;i>=0;i=i-5)
+{
+analogWrite(LED1,i);
+analogWrite(LED2,255-i);
+delay(30);
+}
+}
