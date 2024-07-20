@@ -1,9 +1,9 @@
-Name: YADAV MANENDRAKUMAR VINODKUMAR
-Company: CODTECH IT SOLUTIONS
-ID: CTO8DS3773
-Domain: Embedded Systems
-Duration: July to April 2024
-Mentor: Neela Santosh Kumar
+Name: YADAV MANENDRAKUMAR VINODKUMAR                         <br>
+Company: CODTECH IT SOLUTIONS                                 <br>
+ID: CTO8DS3773                                                 <br>
+Domain: Embedded Systems                                        <br>
+Duration: July to April 2024                                     <br>
+Mentor: Neela Santosh Kumar                                       <br>
 
 
 Project Overview: LED toggle (LED Fading Effect)
